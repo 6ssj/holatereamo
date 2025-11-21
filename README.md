@@ -65,7 +65,7 @@
     </style>
 </head>
 <body>
-    <h1>ᴍɪ ᴘʀɪɴᴄᴇꜱᴀ</h1>
+    <h1>ᴹⁱ ᵉˢᵗʳᵉˡˡⁱᵗᵃ</h1>
     <p class="italics"> Cuando te conocí no buscaba el amor, más bien trataba de alejarme de él, pero llegaste tú con ese cariño y esa ternura que me hicieron sentir que quizá el destino ya tenía algo preparado para nosotros desde hace tiempo. Tu forma de ser tan única, tu interés hacia mí que lo noto y lo siento a diario, me hacen feliz de estar a tu lado cada día.</p>
     <p class="italics"> No sé cómo decirte que nunca quise a nadie como te quiero a ti. Que eres la única que imagino en mi vida, la única que quiero ver al final de cada día. Ninguna persona significó lo que tú significas para mí y lo hiciste en tiempo récord. Lograste llenar mi corazón y hacerme morir de emoción por tan solo un mensaje.Eres lo mejor que me pasó, lo más bonito que tengo, la tranquilidad que no sabía que necesitaba. </p>
     <p class="italics"> Me enamoras con tus detalles, con tu forma de ser, con tus errores y tus pasiones. Me enamoras cuando te ríes, cuando te enojas poquito, cuando dices mi nombre, cuando me hablas bonito sin darte cuenta. Me enamoras incluso en lo que no haces, porque simplemente existir ya te vuelve especial. </p>
@@ -105,5 +105,4 @@
         }
     </script>
 </body>
-</html>
 
