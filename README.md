@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>му ℓσνє 𝐕 ᥫ᭡ </title>
+    <title>му ℓσνє 𝑺 ᥫ᭡ </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -66,13 +66,13 @@
 </head>
 <body>
     <h1>ᴍɪ ᴘʀɪɴᴄᴇꜱᴀ</h1>
-    <p class="italics">Desde hace tiempo he estado pensando en lo muchisimo que significas para mi, en todo lo que hemos compartido, por poco o mucho que parezca, me haz hecho sentir cosas que no sentía hace tiempo. No estoy escribiendo esto solo por impulso ni para sonar bonito, sino porque realmente quiero que sepas lo que siento y lo que quiero contigo.</p>
-    <p class="italics">Desde que empezamos a hablar, las cosas cambiaron. Poco a poco me fui dando cuenta de que me gustaba hablar contigo, que me hacía bien, que lo necesitaba. Estar en llamada contigo se volvió una de mis partes favoritas del día. Me siento tranquilo, me siento yo, y eso no me pasa con cualquiera.</p>
-    <p class="italics">Sé que no llevamos una eternidad conociéndonos, pero siento que en este tiempo pasaron cosas que valen más que la cantidad de días. Me hiciste sentir acompañado, escuchado, y me di cuenta de que quiero estar contigo de una forma mas seria. No es algo q lo diga asi nda mas y tampoco estoy buscando una relación solo por tenerla.</p>
-    <p class="italics">Queria preguntarte algo q ya me da muchisima pena pero es lo del final. No te prometo que todo será perfecto, porque no lo va a ser, pero sí te prometo que voy a dar lo mejor de mí. Quiero que sepas que, si estás conmigo, no te va a faltar nada. No te va a faltar ni tiempo, ni cariño, ni amor.</p>
-    <p class="italics">Me importas, me gustas, y me encantaría poder compartir todo esto contigo, no solo como alguien que te aprecia, sino como alguien que quiere algo de verdad a tu lado. Gracias por hacerme sentir tan bien en tan poco tiempo, este tiempo contigo ha sido de lo mejor que me ha pasado.</p>
+    <p class="italics"> Cuando te conocí no buscaba el amor, más bien trataba de alejarme de él, pero llegaste tú con ese cariño y esa ternura que me hicieron sentir que quizá el destino ya tenía algo preparado para nosotros desde hace tiempo. Tu forma de ser tan única, tu interés hacia mí que lo noto y lo siento a diario, me hacen feliz de estar a tu lado cada día.</p>
+    <p class="italics"> No sé cómo decirte que nunca quise a nadie como te quiero a ti. Que eres la única que imagino en mi vida, la única que quiero ver al final de cada día. Ninguna persona significó lo que tú significas para mí y lo hiciste en tiempo récord. Lograste llenar mi corazón y hacerme morir de emoción por tan solo un mensaje.Eres lo mejor que me pasó, lo más bonito que tengo, la tranquilidad que no sabía que necesitaba. </p>
+    <p class="italics"> Me enamoras con tus detalles, con tu forma de ser, con tus errores y tus pasiones. Me enamoras cuando te ríes, cuando te enojas poquito, cuando dices mi nombre, cuando me hablas bonito sin darte cuenta. Me enamoras incluso en lo que no haces, porque simplemente existir ya te vuelve especial. </p>
+    <p class="italics"> Te amo tanto que a veces me quedo sin palabras, pero nunca sin ganas. Sin ganas de cuidarte, de elegirte, de estar para ti, de seguir construyendo algo que solo tú y yo entendemos, y espero que siga así, porque solo te quiero a ti..</p>
+    <p class="italics">Me importas, me gustas, y me encantaría poder compartir. Gracias por hacerme sentir tan bien en tan poco tiempo, este tiempo contigo ha sido de lo mejor que me ha pasado.Y si todo esto aún no te lo deja claro, déjame decirlo una última vez: te amo, Sofi. Me gustas de verdad, me gustas muchísimo. </p>
     <div class="center-content">
-        <p class="italics">¿Puedo ser tu novio?<br>
+        <p class="italics"> ¿Me permitirías ser tu novio? <br>
         Puedo ser esa persona que esté para ti, que te apoye, que te escuche, que te acompañe en lo bueno y en lo difícil también?</p>
         <button id="siButton" onclick="cambiarTexto()">Sí</button>
         <button id="noButton" onmouseover="moverBoton()">No</button>
